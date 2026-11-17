@@ -1,5 +1,3 @@
-import java.io.*;
-import java.util.Scanner;
 public class RF1{
         public static void main(String[] args) {
         javax.swing.JFrame janela = new javax.swing.JFrame("Botão de Emergência");
